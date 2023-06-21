@@ -90,6 +90,7 @@ th {
   text-decoration: underline;
 }
 .liste-da {
+  position: relative;
   font-family: "Rye", cursive;
   background: rgb(42, 42, 42);
   background: radial-gradient(
@@ -102,6 +103,7 @@ th {
   padding-bottom: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  box-shadow: inset 0px 10px 20px 20px white;
 }
 .liste-da h2 {
   font-size: 3em;
@@ -144,6 +146,7 @@ th {
   align-items: stretch;
 }
 .liste-ts {
+  position: relative;
   font-family: "Irish Grover", cursive;
   background: rgb(42, 42, 42);
   background: radial-gradient(
@@ -156,6 +159,7 @@ th {
   padding-bottom: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  box-shadow: inset 0px 10px 20px 20px white;
 }
 .liste-ts h2 {
   font-size: 3em;
@@ -198,6 +202,7 @@ th {
   align-items: flex-start;
 }
 .liste-tau {
+  position: relative;
   font-family: "Wallpoet", cursive;
   background: rgb(42, 42, 42);
   background: radial-gradient(
@@ -210,6 +215,7 @@ th {
   padding-bottom: 50px;
   padding-left: 100px;
   padding-right: 100px;
+  box-shadow: inset 0px 10px 20px 20px white;
 }
 .liste-tau h2 {
   font-size: 3em;
